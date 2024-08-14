@@ -1,89 +1,18 @@
-# Assignment 7: Expanded Banking App
-
-## Frontend
+## Assignment 7: Expanded Banking App
 
 **Features:**
-
-- **Login System:**
-  - Requests username, password, and verifies credentials.
-  - Supports three company roles: administrator, employee, and customer.
-
-- **Administrator:**
-  - Access to all screens.
-  - Ability to manage personal bank accounts.
-  - Can elevate/demote user roles.
-
-- **Customer:**
-  - Unique customer ID assignment.
-  - Deposit/withdraw money into savings, checking, and investment accounts.
-  - Transfer money between accounts.
-  - View full and individual account transaction histories.
-
-- **Employee:**
-  - View and manage accounts using customer IDs.
-  - Deposit/withdraw money and transfer between customer accounts.
-
-- **UI Requirements:**
-  - Consistent theme and CSS styling.
-  - Polished interface with aligned and justified elements.
-  - Recommended use of Bootstrap or similar frameworks.
+- **RBAC**: Three different RBAC roles: Administrator, employee, and customer.
+  - **Administrator:** Access to all screens & elevate/demote user roles.
+  - **Employee:** View and manage accounts using customer IDs and deposit/withdraw money and transfer between customer accounts.
+  - **Customer:** Deposit/withdraw money into savings, checking, and investment accounts and view full and individual account transaction histories.
+- **Password Security:** Implemented SHA-256 hashing for passwords to ensure security and set up routes for secure login and account management.
 
 **Implementation Details:**
-
-- **Frontend Design:**
-  - Built using React for a dynamic user experience.
-  - Implemented responsive design for compatibility across devices.
-  - Utilized React Router for navigation between pages.
-
-- **Styling:**
-  - Applied Bootstrap for a consistent and clean layout.
-  - Custom CSS for additional styling and layout adjustments.
-
-- **Data Handling:**
-  - Simulated backend functionality with dummy data for testing purposes.
-  - Ensured navigability and functionality without a fully integrated backend.
-
-## Backend
-
-**Features:**
-
-- **Login System:**
-  - SHA-256 hashing for password security.
-  - Error message for incorrect credentials without revealing details.
-
-- **Role Management:**
-  - Administrators can access all functionalities and manage user roles.
-  - Ability for role assignment and modification.
-
-- **Account Management:**
-  - Unique customer ID for each user.
-  - Functionality for deposit/withdrawal and transfer operations.
-  - Full and individual account transaction histories.
-
-- **Employee Capabilities:**
-  - View and manage accounts using customer IDs.
-  - Facilitate money transfers between accounts.
-
-- **Account Creation:**
-  - Only employees and administrators can create new accounts.
-
-**Implementation Details:**
-
-- **Backend Setup:**
-  - Developed with Node.js and Express for handling requests and responses.
-  - Utilized MongoDB for data storage and management.
-
-- **Password Security:**
-  - Implemented SHA-256 hashing for passwords to ensure security.
-  - Set up routes for secure login and account management.
-
-- **Data Handling:**
-  - Stored user information, transaction histories, and account details in MongoDB.
-  - Implemented error handling and data validation within the backend logic.
-
-- **Testing:**
-  - Used dummy data for initial testing and verification of backend functionalities.
-  - Ensured smooth integration with the frontend components.
+- **Frontend Naviagtion:** Utilized React Router for navigation between pages.
+- **Frontend Styling:** Applied Bootstrap for a consistent and clean layout.
+- **Backend Setup:** Developed with Node.js and Express for handling requests and responses.
+- **Backend Database:** Utilized MongoDB for data storage and management.
+- **Data Handling:** Implemented error handling and data validation within the backend logic.
 
 ## Assignment 6: Hangman Game
 
