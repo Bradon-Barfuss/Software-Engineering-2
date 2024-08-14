@@ -1,3 +1,4 @@
+# Mern Class
 ## Assignment 7: Expanded Banking App
 
 **Features:**
