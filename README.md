@@ -68,7 +68,7 @@
 
 ## Assignment 3: Four in a Row Game
 
-<img src="" alt="Image" align="left" width="400">
+<img src="" alt="Image" align="right" width="400">
 
 - **Features:**
   - **Game Board:** Implemented a Connect Four board with 6 rows and 7 columns.
@@ -84,7 +84,7 @@
 
 ## Assignment 2: Node/Express Site with File Storage
 
-<img src="" alt="Image" align="left" width="400">
+<img src="" alt="Image" align="right" width="400">
 
 - **Features:**
   - **Data Submission:** One HTML page with a form to collect a first name, last name, and favorite food, which sends data to a backend route for storage.
@@ -101,7 +101,7 @@
 
 ## Assignment 1: Node and Express
 
-<img src="" alt="Image" align="left" width="400">
+<img src="" alt="Image" align="right" width="400">
 
 - **Features:**
   - Set up a development environment with Node.js and Visual Studio Code.
