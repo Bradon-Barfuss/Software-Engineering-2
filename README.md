@@ -52,7 +52,7 @@
 
 ## Assignment 2: Four in a Row Game
 
-<img src="" alt="Image" align="right" width="400">
+<img src="https://github.com/Bradon-Barfuss/Software-Engineering-2/blob/main/Pictures/connectFourPicture.png">
 
 - **Features:**
   - **Game Board:** Implemented a Connect Four board with 6 rows and 7 columns.
@@ -60,10 +60,9 @@
   - **Player Switching:** Properly switches turns between players after each move.
   - **Tile Coloring:** Tiles are colored to distinguish between players.
 
-
 ## Assignment 1: Hello World
 
-<img src="" alt="Image" align="right" width="400">
+<img src="https://github.com/Bradon-Barfuss/Software-Engineering-2/blob/main/Pictures/helloworldpicture.png?raw=true">
 
 - **Features:**
   - Set up a development environment with Node.js and Visual Studio Code.
