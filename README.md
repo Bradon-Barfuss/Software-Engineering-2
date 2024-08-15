@@ -1,4 +1,5 @@
-# Mern Class
+# Software Engineering 2 Class
+
 ## Assignment 7: Expanded Banking App
 
 **Features:**
@@ -17,7 +18,7 @@
 
 ## Assignment 6: Hangman Game
 
-<img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Students%20Grades/picture.png" alt="Image" align="right" width="400">
+<img src="" alt="Image" align="right" width="400">
 
 - **Features:**
   - **User Interaction:** Users start by entering their name, then play a traditional Hangman game.
@@ -34,7 +35,7 @@
 
 ## Assignment 5: MERN and Sessions
 
-<img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Students%20Grades/picture.png" alt="Image" align="right" width="400">
+<img src="" alt="Image" align="right" width="400">
 
 - **Features:**
   - **User Sessions:** Implemented session tracking for user registration, login, and logout.
