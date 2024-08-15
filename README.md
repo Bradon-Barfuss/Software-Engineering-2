@@ -46,7 +46,6 @@
 - **Implementation Details:**
   - **Backend:** Added session handling for registration and login routes. Implemented a logout route to destroy sessions.
   - **Frontend:** Developed React pages for account registration, login, and account summary. Integrated forms for user interaction and financial transactions.
-  - **Session Handling:** Used session ID to track user authentication status across pages. Ensured unauthorized users are redirected to the login page.
   - **Transaction Management:** Enabled deposit and withdrawal functionality with basic validation.
 
 
@@ -61,11 +60,10 @@
   - **JSON Data Handling:** All routes accept and return JSON data, ensuring no plain text input or output.
 
 - **Implementation Details:**
-  - **Backend Setup:** Created a Node/Express server with MongoDB integration for storing user data and account details.
+  - **Backend Setup:** Created a Node/Express server with MongoDB for storing user data and account details.
   - **Account Management:** Implemented routes to create accounts, authenticate users, retrieve user data, and update account roles.
   - **Financial Transactions:** Developed routes for depositing, withdrawing, and transferring funds within accounts.
   - **Testing:** Utilized RESTful API tools like Postman to verify and debug the routes.
-  - **No Frontend Required:** Focused on backend functionality; frontend development is deferred to future assignments.
 
 
 ## Assignment 3: Four in a Row Game
