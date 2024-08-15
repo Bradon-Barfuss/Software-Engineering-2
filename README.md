@@ -15,7 +15,8 @@
 
 ## Assignment 5: Hangman Game
 
-<img src="" alt="Image" align="right" width="400">
+<img src="https://github.com/Bradon-Barfuss/Software-Engineering-2/blob/main/Pictures/hangman_game.png">
+<img src="https://github.com/Bradon-Barfuss/Software-Engineering-2/blob/main/Pictures/hangman_highscore.png">
 
 - **Features:**
   - **User Interaction:** Users start by entering their name, then play a traditional Hangman game.
@@ -26,7 +27,8 @@
 
 ## Assignment 4: MERN and Sessions
 
-<img src="" alt="Image" align="right" width="400">
+<img src="https://github.com/Bradon-Barfuss/Software-Engineering-2/blob/main/Pictures/mern_session_picture.png">
+<img src="https://github.com/Bradon-Barfuss/Software-Engineering-2/blob/main/Pictures/mern_session_reg_picture.png">
 
 - **Features:**
   - **User Sessions:** Implemented session tracking for user registration, login, and logout.
