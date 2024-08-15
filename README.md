@@ -1,6 +1,7 @@
 # Software Engineering 2 Class
 
 ## Assignment 6: Banking App
+<img src="https://github.com/Bradon-Barfuss/Software-Engineering-2/blob/main/Pictures/mygif.gif">
 
 **Features:**
 - **RBAC**: Three different RBAC roles: Administrator, employee, and customer.
