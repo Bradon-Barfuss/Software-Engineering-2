@@ -40,7 +40,7 @@
 
 ## Assignment 3: Node, Express, Mongo, and RESTful API
 
-<img src="" alt="Image" align="right" width="400">
+<img src="https://github.com/Bradon-Barfuss/Software-Engineering-2/blob/main/Pictures/api.png">
 
 - **Features:**
   - **User Account System:** Create and manage user accounts with profiles, roles, and initial account balances.
